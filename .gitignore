@@ -1,0 +1,5 @@
+/.venv
+/browser/__pycache__
+/browser/build
+/browser/dist
+home.html
